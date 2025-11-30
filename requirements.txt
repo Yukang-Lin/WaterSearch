@@ -1,0 +1,17 @@
+alpaca_farm==0.1.9
+datasets==4.0.0
+einops==0.8.1
+flash_attn==2.7.3
+fuzzywuzzy==0.18.0
+jieba==0.42.1
+nltk==3.9.1
+numpy==1.26.4
+openai==0.28.0
+pandas==2.2.3
+rouge==1.0.1
+scipy==1.12.0
+sentencepiece==0.2.1
+spacy==3.7.5
+tokenizers==0.20.3
+torch==2.7.0a0+ecf3bae40a.nv25.2
+tqdm==4.67.1

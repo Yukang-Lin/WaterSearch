@@ -1,0 +1,18 @@
+{
+    "llama2-7b-chat-4k": "yourpath/Llama-2-7b-chat-hf",
+    "internlm-7b-8k": "yourpath/internlm-chat-7b",
+    "qwen2.5-7b": "yourpath/Qwen2.5-7B-Instruct",
+    "qwen3-14b": "yourpath/Qwen3-14B",
+    "qwen3-32b": "yourpath/Qwen3-32B",
+    
+    "longchat-v1.5-7b-32k": "lmsys/longchat-7b-v1.5-32k",
+    "xgen-7b-8k": "Salesforce/xgen-7b-8k-inst",
+    "chatglm2-6b": "THUDM/chatglm2-6b",
+    "chatglm2-6b-32k": "./data/models/chatglm2-6b-32k",
+    "vicuna-v1.5-7b": "/remote-home1/yklin/models/vicuna-7b-v1.5",
+    "tulu-7b": "/data2/cookie_huggingface_models/tulu-7b-full",
+    "vicuna-13b": "/data2/cookie_huggingface_models/vicuna-13b",
+    "starcoder2-3b": "/remote-home1/yklin/models/starcoder2-3b",
+    "starcoder2-7b": "/remote-home1/yklin/models/starcoder2-7b"
+
+}
