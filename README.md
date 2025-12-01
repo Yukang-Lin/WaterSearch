@@ -68,7 +68,7 @@ bash scripts/eval.sh
 ```
 
 ### Acknowledgement
-Our code is build upon WaterBench [https://github.com/THU-KEG/WaterBench](https://github.com/THU-KEG/WaterBench). We use [MarkLLM](https://github.com/THU-BPM/MarkLLM) for token-level attacks and [SimMark](https://github.com/DabiriAghdam/SimMark) for paraphrase attacks.
+Our code is build upon [WaterBench](https://github.com/THU-KEG/WaterBench). We use [MarkLLM](https://github.com/THU-BPM/MarkLLM) for token-level attacks and [SimMark](https://github.com/DabiriAghdam/SimMark) for paraphrase attacks.
 
 ## Citation
 
