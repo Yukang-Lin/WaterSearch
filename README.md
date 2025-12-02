@@ -74,7 +74,15 @@ Our code is build upon [WaterBench](https://github.com/THU-KEG/WaterBench). We u
 
 If you found this repository helpful, please don't forget to cite our paper:
 ```
-
+@misc{lin2025watersearchqualityawaresearchbasedwatermarking,
+      title={WaterSearch: A Quality-Aware Search-based Watermarking Framework for Large Language Models}, 
+      author={Yukang Lin and Jiahao Shao and Shuoran Jiang and Wentao Zhu and Bingjie Lu and Xiangping Wu and Joanna Siebert and Qingcai Chen},
+      year={2025},
+      eprint={2512.00837},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2512.00837}, 
+}
 
 ```
 If you have any questions, please feel free to contact [Yukang.Lin00@gmail.com](Yukang.Lin00@gmail.com)
