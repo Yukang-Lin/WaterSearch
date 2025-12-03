@@ -1,7 +1,7 @@
 # <p align="center"> WaterSearch: A Quality-Aware Search-based Watermarking Framework for Large Language Models
 
 
-This is the official repo for "WaterSearch: A Quality-Aware Search-based Watermarking Framework for Large Language Models".
+This is the official repo for "[WaterSearch: A Quality-Aware Search-based Watermarking Framework for Large Language Models](https://www.arxiv.org/abs/2512.00837)".
 
 ## Overview of WaterSearch: A Parallel Searching Watermark Framework
 
